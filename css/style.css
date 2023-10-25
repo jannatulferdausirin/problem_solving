@@ -1,0 +1,20 @@
+.main_div{
+    background-color:rgb(4, 4, 102);
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    width: 100%;
+    padding:300px 400px;
+}
+input{
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+    font-size: medium;
+    background-color: rgb(210, 238, 247);
+}
+.btn{
+    padding: 10px 15px;
+    background-color: rgb(119, 226, 253);
+    border: none;
+    border-radius: 10px;
+}
